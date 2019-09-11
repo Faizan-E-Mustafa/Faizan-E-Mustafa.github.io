@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Faizan E Mustafa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/images/DM.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Linguistics Portfolio"
   location         : "Stuttgart , DE"
   email            :
