@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-   - title: "Computational Linguistics"
-     url: /computational-linguistics/
+  - title: "Computational Linguistics"
+    url: /computational-linguistics/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
