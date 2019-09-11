@@ -1,7 +1,9 @@
 ---
 layout: "About"
 permalink: /about/
+title: About
+author_profile: true
 header:
-    image: "/images/abou.jpg"
+    image: "/images/ab.jpg"
 ---
-I am enthisiast Computational Linguist
+I am enthusiast Computational Linguist
