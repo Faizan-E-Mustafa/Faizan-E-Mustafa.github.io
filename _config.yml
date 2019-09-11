@@ -111,7 +111,7 @@ author:
   avatar           :  "/images/DM.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Linguistics Portfolio"
   location         : "Stuttgart , DE"
-  email            :
+  email            : "faizanmustafa750@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,7 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/FaizanEMustaf10"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -131,6 +131,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+      label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.linkedin.com/in/faizan-e-mustafa-320b79156/"
+
+    
 
 # Site Footer
 footer:
@@ -289,7 +294,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
 
