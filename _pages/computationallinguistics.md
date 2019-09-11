@@ -7,3 +7,6 @@ header:
     image: "/images/cl.jpg"
 ---
 
+{% for post in site.posts %}
+    {% include archive-single.html %}
+{% endfor %}
