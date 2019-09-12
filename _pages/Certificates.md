@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: single
 permalink: /certificates/
 title: "Certificates"
+author_profile: true
 header: 
     image: "/images/cl.jpg"
 ---
