@@ -5,28 +5,85 @@ title: "Certificates"
 author_profile: true
 
 gallery:
-  - url: "/images/1.jpg"
-    image_path: "/images/1.jpg"
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/images/2.jpg"
-    image_path: "/images/2.jpg"
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-
+  - url: "/images/certificates/deep/spec.jpg"
+    image_path: "/images/certificates/deep/spec.jpg"
+    alt: "Specialization Certificate"
+    title: "Specialization Certificate"
+  - url: "/images/certificates/deep/1.jpg"
+    image_path: "/images/certificates/deep/1.jpg"
+    alt: "Course 1 Certificate"
+    title: "Course 1 Certificate"
+  - url: "/images/certificates/deep/2.jpg"
+    image_path: "/images/certificates/deep/2.jpg"
+    alt: "Course 2 Certificate"
+    title: "Course 2 Certificate"
+  - url: "/images/certificates/deep/3.jpg"
+    image_path: "/images/certificates/deep/3.jpg"
+    alt: "Course 3 Certificate"
+    title: "Course 3 Certificate"
+  - url: "/images/certificates/deep/4.jpg"
+    image_path: "/images/certificates/deep/4.jpg"
+    alt: "Course 4 Certificate"
+    title: "Course 4 Certificate"
+  - url: "/images/certificates/deep/5.jpg"
+    image_path: "/images/certificates/deep/5.jpg"
+    alt: "Course 5 Certificate"
+    title: "Course 5 Certificate"
+  
 gallery1:
-  - url: "/images/3.jpg"
-    image_path: "/images/3.jpg"
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/images/4.jpg"
-    image_path: "/images/4.jpg"
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+  - url: "/images/certificates/applied/spec.jpg"
+    image_path: "/images/certificates/applied/spec.jpg"
+    alt: "Specialization Certificate"
+    title: "Specialization Certificate"
+  - url: "/images/certificates/applied/1.jpg"
+    image_path: "/images/certificates/applied/1.jpg"
+    alt: "Course 1 Certificate"
+    title: "Course 1 Certificate"
+  - url: "/images/certificates/applied/2.jpg"
+    image_path: "/images/certificates/applied/2.jpg"
+    alt: "Course 2 Certificate"
+    title: "Course 2 Certificate"
+  - url: "/images/certificates/applied/3.jpg"
+    image_path: "/images/certificates/applied/3.jpg"
+    alt: "Course 3 Certificate"
+    title: "Course 3 Certificate"
+  - url: "/images/certificates/applied/4.jpg"
+    image_path: "/images/certificates/applied/4.jpg"
+    alt: "Course 4 Certificate"
+    title: "Course 4 Certificate"
+  - url: "/images/certificates/applied/5.jpg"
+    image_path: "/images/certificates/applied/5.jpg"
+    alt: "Course 5 Certificate"
+    title: "Course 5 Certificate"
+
+gallery2:
+  - url: "/images/certificates/ibm1.jpg"
+    image_path: "/images/certificates/ibm1.jpg"
+    alt: "Course Certificate"
+    title: "Course Certificate"
+  - url: "/images/certificates/ibm2.jpg"
+    image_path: "/images/certificates/ibm2.jpg"
+    alt: "Course Certificate"
+    title: "Course Certificate"
+
+gallery3:
+  - url: "/images/certificates/health.jpg"
+    image_path: "/images/certificates/health.jpg"
+    alt: "Course Certificate"
+    title: "Course Certificate"
+  - url: "/images/certificates/lhtl.jpg"
+    image_path: "/images/certificates/lhtl.jpg"
+    alt: "Course Certificate"
+    title: "Course Certificate"
 
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include gallery id="gallery1" caption="This is a sample gallery  with **Markdown support**." %}
+
+{% include gallery id="gallery2" caption="This is a sample gallery  with **Markdown support**." %}
+
+{% include gallery id="gallery3" caption="This is a sample gallery  with **Markdown support**." %}
+
 
