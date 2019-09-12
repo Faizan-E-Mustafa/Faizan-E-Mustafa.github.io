@@ -79,13 +79,14 @@ gallery3:
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
-<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--success">Success Button</a>
-
+<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a>
 {% include gallery id="gallery1" caption="This is a sample gallery  with **Markdown support**." %}
+<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a>
 
 {% include gallery id="gallery2" caption="This is a sample gallery  with **Markdown support**." %}
+<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a><a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a>
 
 {% include gallery id="gallery3" caption="This is a sample gallery  with **Markdown support**." %}
+[Small Button](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery){: .btn .btn--primary .btn--small}
 
 
