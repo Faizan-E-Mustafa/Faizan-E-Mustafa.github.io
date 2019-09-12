@@ -16,6 +16,5 @@ header:
       image_path: /images/ab.jpg
       alt: "placeholder image 2"
       title: "Image 2 title caption"
-
-  {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 </figure>
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
