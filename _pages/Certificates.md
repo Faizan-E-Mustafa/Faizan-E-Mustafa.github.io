@@ -28,5 +28,5 @@ gallery1:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-{% include gallery1 caption="This is a sample gallery  with **Markdown support**." %}
+{% include gallery id="gallery1" caption="This is a sample gallery  with **Markdown support**." %}
 
