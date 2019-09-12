@@ -77,17 +77,17 @@ gallery3:
     title: "Course Certificate"
 
 ---
-#### Deep Learning Specialization
-<span style="font-size:4em;">
+***
+### Deep Learning Specialization
 1. Neural Networks and Deep Learning
-2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+2. Improving Deep Neural Networks
 3. Structuring Machine Learning Projects
 4. Convolutional Neural Networks
 5. Sequence Models
-</span>
 {% include gallery %}
 [Verify Here](https://www.coursera.org/account/accomplishments/specialization/336FVJ6GTXLM){: .btn .btn--primary .btn--small}
-##### Applied Data Science with Python Specialization
+***
+### Applied Data Science with Python Specialization
 1. Introduction to Data Science in Python
 2. Applied Plotting, Charting & Data Representation in Python
 3. Applied Machine Learning in Python
@@ -95,13 +95,15 @@ gallery3:
 5. Applied Social Network Analysis in Python
 {% include gallery id="gallery1" %}
 [Verify Here](https://www.coursera.org/account/accomplishments/specialization/LR5VKSJR3TP9){: .btn .btn--primary .btn--small}
-##### Data Visualization and Analysis Courses By IBM
+***
+### Data Visualization and Analysis Courses By IBM
 1. Data Visualization with Python
 2. Data Analysis with Python
 {% include gallery id="gallery2" %}
 [Verify Here (1)](https://www.coursera.org/account/accomplishments/verify/LDZSEW4FAB4U){: .btn .btn--primary .btn--small} 
 [Verify Here (2)](https://www.coursera.org/account/accomplishments/verify/93EJJBD2HAEN){: .btn .btn--primary .btn--small}
-##### Miscellaneous
+***
+### Miscellaneous
 1. Stanford Introduction to Food and Health
 2. Learning How to Learn: Powerful mental tools to help you master tough subjects
 {% include gallery id="gallery3" %}
