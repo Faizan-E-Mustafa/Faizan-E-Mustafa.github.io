@@ -17,7 +17,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://medium.com/@faizanmustafa75/keras-implementation-of-image-captioning-model-3a7ab68e67d4"
+    url: "https://faizan-e-mustafa.github.io/ImageCaptioning/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
