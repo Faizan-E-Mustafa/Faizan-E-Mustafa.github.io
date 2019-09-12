@@ -25,4 +25,4 @@ feature_row:
 
 {% include feature_row %}
 
-you can [get the PDF]({{ site.url }}images/mydoc.pdf) directly.
+you can [get the PDF]({{ site.url }}/images/mydoc.pdf) directly.
