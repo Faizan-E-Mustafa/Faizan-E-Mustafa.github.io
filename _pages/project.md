@@ -23,4 +23,6 @@ feature_row:
 ---
 
 
-{% include feature_row type="left" id="row2" %}
+{% include feature_row %}
+
+you can [get the PDF]({{ site.url }}images/mydoc.pdf) directly.
