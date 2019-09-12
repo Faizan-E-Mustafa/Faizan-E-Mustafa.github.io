@@ -1,11 +1,9 @@
 ---
-layout: single
+layout: archive
 permalink: /certificates/
 title: "Certificates"
 author_profile: true
-header: 
-    image: "/images/cl.jpg"
-    
+
 gallery:
   - image_path: "/images/1.jpg"
     alt: "placeholder image 1"
