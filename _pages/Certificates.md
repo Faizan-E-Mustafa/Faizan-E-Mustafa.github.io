@@ -5,11 +5,12 @@ title: "Certificates"
 author_profile: true
 header: 
     image: "/images/cl.jpg"
-
+gallery:
+  - image_path: /images/in.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - image_path: /images/DP.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 ---
-
-<figure class="half">
-    <a href="/images/in.jpg"><img src="/images/in.jpg"></a>
-    <a href="/images/5.png"><img src="/images/5.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
