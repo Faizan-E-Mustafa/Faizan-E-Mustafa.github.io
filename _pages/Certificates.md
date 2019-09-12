@@ -6,19 +6,19 @@ author_profile: true
 header: 
     image: "/images/cl.jpg"
 gallery:
-  - image_path: /images/1.png
+  - image_path: /images/1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /images/2.png
+  - image_path: /images/2.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - image_path: /images/3.png
+  - image_path: /images/3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /images/4.png
+  - image_path: /images/4.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /images/5.png
+  - image_path: /images/5.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
