@@ -5,7 +5,7 @@ title: "Certificates"
 author_profile: true
 header: 
     image: "/images/cl.jpg"
----
+
 
 gallery:
   - url: /images/4.png
@@ -18,3 +18,4 @@ gallery:
     title: "Image 2 title caption"
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+---
