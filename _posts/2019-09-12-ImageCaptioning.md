@@ -7,4 +7,3 @@ header:
 excerpt: "Machine Learning , Image Captioning"
 ---
 
-# H1 Heading 
