@@ -15,14 +15,12 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /images/3.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "({{ site.url }}/images/mydoc.pdf)"
+    title: "Titanic : Machine Learning from Disaster Kaggle"
+    excerpt: "Predict whether the passenger will survive titanic disaster or not"
+    url: "https://Faizan-E-Mustafa.github.io/images/mydoc.pdf"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
 
 {% include feature_row %}
-
-you can [get the PDF]({{ site.url }}/images/mydoc.pdf) directly.
