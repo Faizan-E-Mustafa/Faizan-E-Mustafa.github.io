@@ -77,16 +77,18 @@ gallery3:
     title: "Course Certificate"
 
 ---
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a>
-{% include gallery id="gallery1" caption="This is a sample gallery  with **Markdown support**." %}
-<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a>
-
-{% include gallery id="gallery2" caption="This is a sample gallery  with **Markdown support**." %}
-<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a><a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--info">Verify Here</a>
-
-{% include gallery id="gallery3" caption="This is a sample gallery  with **Markdown support**." %}
-[Small Button](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery){: .btn .btn--primary .btn--small}
+##### Deep Learning Specialization
+{% include gallery %}
+[Small Button](https://www.coursera.org/account/accomplishments/specialization/336FVJ6GTXLM){: .btn .btn--primary .btn--small}
+##### Applied Data Science with Python Specialization
+{% include gallery id="gallery1" %}
+[Small Button](https://www.coursera.org/account/accomplishments/specialization/LR5VKSJR3TP9){: .btn .btn--primary .btn--small}
+##### Data Visualization and Analysis Courses By IBM
+{% include gallery id="gallery2" %}
+[Small Button](https://www.coursera.org/account/accomplishments/verify/LDZSEW4FAB4U){: .btn .btn--primary .btn--small} [Small Button](https://www.coursera.org/account/accomplishments/verify/93EJJBD2HAEN){: .btn .btn--primary .btn--small}
+##### Miscellaneous
+{% include gallery id="gallery3" %}
+[Small Button](https://www.coursera.org/account/accomplishments/verify/9M73AZA7U3LZ){: .btn .btn--primary .btn--small}
+[Small Button](https://www.coursera.org/account/accomplishments/verify/TQ3LA8PS6K2D){: .btn .btn--primary .btn--small}
 
 
