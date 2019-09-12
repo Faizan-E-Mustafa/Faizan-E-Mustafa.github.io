@@ -15,11 +15,5 @@ gallery:
   - image_path: /images/3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /images/4.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - image_path: /images/5.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
 ---
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
