@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Computational Linguistics"
-    url: /computational-linguistics/
+  - title: "Blog"
+    url: /blog/
   - title: "Certificates"
     url: /certificates/
   - title: "Projects"

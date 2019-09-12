@@ -1,8 +1,7 @@
 ---
 layout: archive
-permalink: /computational-linguistics/
-title: "Computational Linguistcs Posts by Tags"
-author_profile: true
+permalink: /blog/
+title: "Blog"
 header: 
     image: "/images/cl.jpg"
 ---
