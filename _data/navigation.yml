@@ -6,7 +6,7 @@ main:
     url: /computational-linguistics/
   - title: "Certificates"
     url: /certificates/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Projects"
+    url: /project/
   # - title: "Sitemap"
   #   url: /sitemap/
