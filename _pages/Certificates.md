@@ -80,6 +80,8 @@ gallery3:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
+<a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery" class="btn--success">Success Button</a>
+
 {% include gallery id="gallery1" caption="This is a sample gallery  with **Markdown support**." %}
 
 {% include gallery id="gallery2" caption="This is a sample gallery  with **Markdown support**." %}
