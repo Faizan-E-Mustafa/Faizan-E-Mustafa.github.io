@@ -14,7 +14,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 
-gallery:
+gallery1:
   - url: "/images/3.jpg"
     image_path: "/images/3.jpg"
     alt: "placeholder image 1"
@@ -28,5 +28,5 @@ gallery:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-{% include gallery caption="This is a sample gallery 1 with **Markdown support**." %}
+{% include gallery1 caption="This is a sample gallery  with **Markdown support**." %}
 
