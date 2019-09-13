@@ -14,7 +14,8 @@ Mini batch gradient descend is also used to get an optimized algorithm.
 **We want our gradient descend(backward propagation ) to not sit idle until we have gone through whole training data(forward propagation).**
 
 Unlike batch descend , mini batch descend use mini batches of training data . when we use whole training data to get the output from forward propagation .Gradient descend step will be at rest during this whole time . If we could somehow manage to get this gradient descend working before going through whole training data we could get a better optimized algorithm. So we divide training data into mini batches and we do our forward and back propagation for each mini batch .
-Batch gradient descend : If batch size is equal to # of training examples(m)
+
+**Batch gradient descend :** If batch size is equal to # of training examples(m)
 
 **Disadvantage:** It takes very long time per iteration if training set is very large. Gradient descend sits idle.
 
