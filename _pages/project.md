@@ -3,8 +3,8 @@ layout: splash
 permalink: /project/
 title: "Projects"
 author_profile: true
-header: 
-    image: "/images/projects/Main.jpg"
+#header: 
+#    image: "/images/projects/Main.jpg"
 feature_row:
   - image_path: /images/projects/image_captioning.jpg
     alt: "placeholder image 2"
@@ -18,6 +18,13 @@ feature_row:
     title: "Titanic : Machine Learning from Disaster Kaggle"
     excerpt: "Predict whether the passenger will survive titanic disaster or not"
     url: "https://Faizan-E-Mustafa.github.io/images/mydoc.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/projects/ML.jpg
+    alt: "placeholder image 2"
+    title: "60 Days of ML Code"
+    excerpt: "60 Days of ML Code is a committment to study Machine Learning at least one hour a day . I was also able to do a couple of projects during this time"
+    url: "https://github.com/Faizan-E-Mustafa/60-Days-of-ML-Code"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

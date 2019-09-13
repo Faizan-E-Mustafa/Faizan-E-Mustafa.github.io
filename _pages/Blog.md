@@ -1,9 +1,9 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Blog"
-header: 
-    image: "/images/cl.jpg"
+title: "Blog by Tags"
+#header: 
+ #   image: "/images/cl.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
