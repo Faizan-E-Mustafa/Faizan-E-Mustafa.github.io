@@ -13,7 +13,7 @@ feature_row:
     url: "https://medium.com/@faizanmustafa75/keras-implementation-of-image-captioning-model-3a7ab68e67d4"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/projects/titanic.jpg
+  - image_path: /images/projects/kaggle.jpg
     alt: "placeholder image 2"
     title: "Titanic : Machine Learning from Disaster Kaggle"
     excerpt: "Predict whether the passenger will survive titanic disaster or not"
