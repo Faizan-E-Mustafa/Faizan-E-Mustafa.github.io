@@ -1,9 +1,7 @@
 ---
 title: "Batch Vs Mini Batch Gradient Descend"
 date: 2019-09-12
-tags: [Gradient Descend , Machine Learning]
-header:
-    image: "/images/ab.jpg"
+tags: [Machine Learning]
 excerpt: "Difference between Batch and mini-batch gradient descend and their advantages and disadvantages."
 ---
 Deep leaning works best in the regime of Big data . Algorithms tends to work slow on large data sets. that’s why we need fast optimization algorithms to cope well with the large data sets. One little example of optimization is when we use vectorization instead of loops . So whenever we find a loop that can be implemented using vectorization we do it without giving it a second thought.
@@ -11,7 +9,7 @@ Deep leaning works best in the regime of Big data . Algorithms tends to work slo
 ### Batch vs Mini batch gradient descend :
 Mini batch gradient descend is also used to get an optimized algorithm.
 
-**We want our gradient descend(backward propagation ) to not sit idle until we have gone through whole training data(forward propagation).**
+**We want our gradient descend(backward propagation ) to not sit idle until we have gone through whole training data (forward propagation).**
 
 Unlike batch descend , mini batch descend use mini batches of training data . when we use whole training data to get the output from forward propagation .Gradient descend step will be at rest during this whole time . If we could somehow manage to get this gradient descend working before going through whole training data we could get a better optimized algorithm. So we divide training data into mini batches and we do our forward and back propagation for each mini batch .
 
