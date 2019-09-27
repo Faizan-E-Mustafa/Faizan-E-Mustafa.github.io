@@ -1,8 +1,8 @@
 ---
 title: "Study Data Science in Germany - A Guide for Masters Aspirants"
-date: 2019-09-12
+date: 2019-09-27
 tags: [Study in Germany]
-excerpt: "A guide for people who aspire to do Masters in Data Science / Machine Learning or related field from Germany"
+excerpt: "A guide for people who aspire to do Masters in Data Science / Machine Learning or related field from Germany."
 ---
 Germany is one of the most coveted place for students who want to study abroad . High quality education in a very low financial cost is one the major reasons that  every year a huge amount of undergraduate and graduate students apply for their desired programs . Germany offers a lot of opportunities for students who want to pursue their studies in every possible field. Like many other fields , Germany also offers best quality education for students who want to study Data Science , Artificial Intelligence , Machine Learning and related subjects .
 
@@ -12,7 +12,7 @@ After completing my under-graduation , I was willing to do Masters from abroad i
 
 When I was searching for universities that offered programs related to my desired subjects , I was not able to find information in one place . I believe that solution to problems could be found through team work . So I created a group on a social website where anyone can share and get information about the masters programs . This synergy will help everyone that is why motto of group is “Help yourself by helping others”. 
 
-[***Here is link](https://www.facebook.com/groups/364661040940901/)*** to the MSc Data Science/ Machine Learning (Germany)
+[***Here is link***](https://www.facebook.com/groups/364661040940901/) to the MSc Data Science/ Machine Learning (Germany) Group.
 
 {% include figure image_path="/images/posts/ProjectGermany/a.jpg" alt="this is a placeholder image" caption="Moto of Group" %}
 
@@ -26,7 +26,7 @@ When I was searching for universities that offered programs related to my desire
 
     [***Here is Link***](https://www.notion.so/Project-Germany-9f07122d9f5547e59d5edb85aa0c5c9b) to the Website: 
 
-{% include figure image_path="/images/posts/ProjectGermany/b.png" alt="this is a placeholder image" caption="Screen Shot of Webdite" %}
+{% include figure image_path="/images/posts/ProjectGermany/b.png" alt="this is a placeholder image" caption="Screen Shot of Website" %}
 
 
 If you need any help , feel free to contact me. 
