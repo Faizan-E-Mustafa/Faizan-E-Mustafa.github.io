@@ -1,7 +1,7 @@
 ---
 title: "Batch Vs Mini Batch Gradient Descend"
 date: 2019-09-12
-tags: [Machine Learning]
+tags: [Gradient Descend]
 excerpt: "Difference between Batch and mini-batch gradient descend and their advantages and disadvantages."
 ---
 Deep leaning works best in the regime of Big data . Algorithms tends to work slow on large data sets. that’s why we need fast optimization algorithms to cope well with the large data sets. One little example of optimization is when we use vectorization instead of loops . So whenever we find a loop that can be implemented using vectorization we do it without giving it a second thought.
