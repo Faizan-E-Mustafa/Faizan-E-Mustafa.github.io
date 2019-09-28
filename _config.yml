@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Faizan E Mustafa"
   avatar           :  "/images/D.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NLP | Machine Learning | Deep Learning Enthusiast"
+  bio              : "NLP, Machine Learning, Deep Learning Enthusiast"
   location         : "Stuttgart , DE"
   email            : "faizanmustafa750@gmail.com"
   links:

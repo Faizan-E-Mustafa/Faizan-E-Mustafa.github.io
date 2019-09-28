@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /certificates/
 title: "Certificates"
 author_profile: true
