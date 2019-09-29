@@ -10,7 +10,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Keras Implementation of Image Captioning Model"
     excerpt: "Image captioning is a task that involves computer vision as well as Natural language processing. It takes an image and is able to describe whats going on in the image in English. It uses InceptionV3 to extract features from images and LSTM to generate captions for images.This implementation uses Keras with Tensorflow back end."
-    url: "https://medium.com/@faizanmustafa75/keras-implementation-of-image-captioning-model-3a7ab68e67d4"
+    url: "https://faizan-e-mustafa.github.io/ImageCaptioning/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/projects/kaggle.jpg

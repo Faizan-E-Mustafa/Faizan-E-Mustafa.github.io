@@ -3,7 +3,6 @@ title: "Keras Implementation of Image Captioning Model"
 date: 2019-09-29
 tags: [Image Captioning , Projects]
 excerpt: "Image captioning is a task that involves computer vision as well as Natural language processing. It takes an image and is able to describe whats going on in the image in English. It uses InceptionV3 to extract features from images and LSTM to generate captions for images.This implementation uses Keras with Tensorflow back end."
-classes: wide
 ---
 Image captioning is a task that involves computer vision and natural language processing. It takes an image and can describe what's going on in the image in plain English. A CNN architect is used to extract features from the images. Then the encoded image is passed through a decoder. Since RNN is very good with sequential data and we need to describe an image in a sentence so we could use an RNN or its variant as a decoder.
 
@@ -49,7 +48,8 @@ It gave decent results at the 12th epoch. But the results deteriorated a bit at 
 ## Testing:
 
 I used a greedy search and beam search to predict the results. Unlike greedy search where we pick only the highest probability to get the next word prediction, In beam search, we pick as many words as we like each time it makes a prediction. Suppose we picked three words, then we will take into account the probability of a whole caption by using the first word, second word, and the third word separately. Whichever is giving us the maximum probability for the caption, we pick that one word.
-If you want to know more about the beam search, you can find Andrew Ng's video here.
+
+If you want to know more about the beam search, you can find Andrew Ng's video [***Here.***](https://www.coursera.org/lecture/nlp-sequence-models/beam-search-4EtHZ)
 
 ## Results:
 {% include figure image_path="/images/posts/ImageCaptioning/result.png" alt="this is a placeholder image" %}
