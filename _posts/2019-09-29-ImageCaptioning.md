@@ -28,17 +28,25 @@ I used LSTM as a decoder. The model summary is as below.
 {% include figure image_path="/images/posts/ImageCaptioning/Final.png" alt="this is a placeholder image" caption="Final Model" %}
 
 These were the values of different variables.
+
 Embedding size = 300
+
 Vocabulary size= 8256
+
 Dropout = 0.5
+
 Optimizer = Adam
+
 Batch Size = 128
 
 ## Training:
 
 I trained the model for 13 epochs. The following are loss values for some epochs.
 
-11 epochs : 2108s 703ms/step - loss: 1.3744 - acc: 0.605812 epochs : 2106s 703ms/step - loss: 1.2529 - acc: 0.6332
+11 epochs : 2108s 703ms/step - loss: 1.3744 - acc: 0.6058
+
+12 epochs : 2106s 703ms/step - loss: 1.2529 - acc: 0.6332
+
 13 epochs : 2097s 700ms/step - loss: 1.1560 - acc: 0.6571
 
 It gave decent results at the 12th epoch. But the results deteriorated a bit at the 13th epoch, so I did not train it further.
