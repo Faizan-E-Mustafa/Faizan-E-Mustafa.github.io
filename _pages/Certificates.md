@@ -76,6 +76,12 @@ gallery3:
     alt: "Course Certificate"
     title: "Course Certificate"
 
+gallery4:
+  - url: "/images/certificates/hackathon.jpg"
+    image_path: "/images/certificates/hackathon.jpg"
+    alt: "Participation Certificate"
+    title: "Participation Certificate"
+  
 ---
 ***
 ### Deep Learning Specialization
@@ -112,5 +118,9 @@ ______________________
 {% include gallery id="gallery3" %}
 [Verify Here(1)](https://www.coursera.org/account/accomplishments/verify/9M73AZA7U3LZ){: .btn .btn--primary .btn--small}
 [Verify Here (2)](https://www.coursera.org/account/accomplishments/verify/TQ3LA8PS6K2D){: .btn .btn--primary .btn--small}
+
+______________________
+### Machine Learning Hackathon with Daimler AG and PionierGarage
+{% include gallery id="gallery4" %}
 
 
