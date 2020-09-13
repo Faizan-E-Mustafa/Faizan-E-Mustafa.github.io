@@ -121,7 +121,7 @@ ______________________
 
 ______________________
 ### Machine Learning Hackathon with Daimler AG and PionierGarage
-[***certificate***](https://Faizan-E-Mustafa.github.io/images/certificates/hackathon.jpg)
+[***certificate***](https://Faizan-E-Mustafa.github.io/pdfs/hackathon_daimler.pdf)
 {% include gallery id="gallery4" %}
 
 

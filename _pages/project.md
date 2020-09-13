@@ -17,7 +17,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Titanic : Machine Learning from Disaster Kaggle"
     excerpt: "Predict whether the passenger will survive titanic disaster or not"
-    url: "https://Faizan-E-Mustafa.github.io/images/mydoc.pdf"
+    url: "https://Faizan-E-Mustafa.github.io/pdfs/titanic_summary.pdf"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/projects/ML.jpg
