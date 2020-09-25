@@ -10,7 +10,9 @@ feature_row:
       alt: "placeholder image 2"
       title: "Cross-lingual gender prediction (Team Project)"
       excerpt: "The task was to predict gender of users using hundreds of tweets for each user. Most informative tweets were filtered using chi-square. Cross-lingual embedding MUSE and XLM-Roberta was used to create model. A model using linguistics features was also made. Code will be made public soon."
-      
+    url: "https://faizan-e-mustafa.github.io/project/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: /images/projects/image_captioning.jpg
     alt: "placeholder image 2"
     title: "Keras Implementation of Image Captioning Model"
