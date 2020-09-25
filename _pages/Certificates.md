@@ -82,11 +82,11 @@ gallery4:
     alt: "Participation Certificate"
     title: "Participation Certificate"
 
-gallery4:
-  - url: "/images/certificates/mentoring.jpg"
-    image_path: "/images/certificates/mentoring.jpg"
-    alt: "Cross Cultural Mentoring Program Participation Certificate"
-    title: "Cross Cultural Mentoring Program Participation Certificate"
+# gallery5:
+#   - url: "/images/certificates/mentoring.jpg"
+#     image_path: "/images/certificates/mentoring.jpg"
+#     alt: "Cross Cultural Mentoring Program Participation Certificate"
+#     title: "Cross Cultural Mentoring Program Participation Certificate"
   
 ---
 ***
@@ -133,6 +133,7 @@ ______________________
 ______________________
 ### Cross Cultural Mentoring Program @ University of Stuttgart
 [***certificate***](https://Faizan-E-Mustafa.github.io/pdfs/mentoring_certificate.pdf)
-{% include gallery id="gallery5" %}
+<!-- {% include gallery id="gallery5" %} -->
+![Certificate](/images/certificates/mentoring.jpg) <!-- .element height="50%" width="50%" -->
 
 
