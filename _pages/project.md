@@ -6,7 +6,7 @@ author_profile: true
 #header: 
 #    image: "/images/projects/Main.jpg"
 feature_row:
-  - image_path: /images/projects/tlearn_app_preview.png
+  - image_path: /images/projects/tlearn_app_preview.jpg
       alt: "placeholder image 2"
       title: "Cross-lingual gender prediction (Team Project)"
       excerpt: "The task was to predict gender of users using hundreds of tweets for each user. Most informative tweets were filtered using chi-square. Cross-lingual embedding MUSE and XLM-Roberta was used to create model. A model using linguistics features was also made. Code will be made public soon."
