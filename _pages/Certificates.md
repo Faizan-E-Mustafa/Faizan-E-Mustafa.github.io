@@ -81,6 +81,12 @@ gallery4:
     image_path: "/images/certificates/hackathon.jpg"
     alt: "Participation Certificate"
     title: "Participation Certificate"
+
+gallery4:
+  - url: "/images/certificates/mentoring.jpg"
+    image_path: "/images/certificates/mentoring.jpg"
+    alt: "Cross Cultural Mentoring Program Participation Certificate"
+    title: "Cross Cultural Mentoring Program Participation Certificate"
   
 ---
 ***
@@ -123,5 +129,10 @@ ______________________
 ### Machine Learning Hackathon with Daimler AG and PionierGarage
 [***certificate***](https://Faizan-E-Mustafa.github.io/pdfs/hackathon_daimler.pdf)
 {% include gallery id="gallery4" %}
+
+______________________
+### Cross Cultural Mentoring Program @ University of Stuttgart
+[***certificate***](https://Faizan-E-Mustafa.github.io/pdfs/mentoring_certificate.pdf)
+{% include gallery id="gallery5" %}
 
 
