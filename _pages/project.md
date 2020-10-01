@@ -6,6 +6,13 @@ author_profile: true
 #header: 
 #    image: "/images/projects/Main.jpg"
 feature_row:
+  - image_path: /images/projects/shellhacks.png
+    alt: "placeholder image 2"
+    title: "Detecting Potential Misinformation Spreaders during Disaster"
+    excerpt: "Twitter provides a platform where information is exchanged every second through conversations. Unfortunately, spread of misinformation is demaging the reputaion of the platform and could cause huge loss especially in case of disasters. NLP techniques can be applied to handle that."
+    url: "https://github.com/Faizan-E-Mustafa/Detecting-Potential-Misinformation-Spreaders-during-Disaster"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: /images/projects/image_captioning.jpg
     alt: "placeholder image 2"
     title: "Keras Implementation of Image Captioning Model"
