@@ -13,6 +13,15 @@ feature_row:
     url: "https://github.com/Faizan-E-Mustafa/Detecting-Potential-Misinformation-Spreaders-during-Disaster"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+
+  - image_path: /images/projects/scratch.png
+    alt: "placeholder image 2"
+    title: "Scratch"
+    excerpt: "Implement basic Machine Learning Algorithms from scratch in python."
+    url: "https://faizan-e-mustafa.github.io/scratch//index.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /images/projects/image_captioning.jpg
     alt: "placeholder image 2"
     title: "Keras Implementation of Image Captioning Model"
@@ -20,6 +29,7 @@ feature_row:
     url: "https://faizan-e-mustafa.github.io/ImageCaptioning/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+
   - image_path: /images/projects/kaggle.jpg
     alt: "placeholder image 2"
     title: "Titanic : Machine Learning from Disaster Kaggle"
@@ -27,6 +37,7 @@ feature_row:
     url: "https://Faizan-E-Mustafa.github.io/pdfs/titanic_summary.pdf"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+    
   - image_path: /images/projects/ML.jpg
     alt: "placeholder image 2"
     title: "60 Days of ML Code"
