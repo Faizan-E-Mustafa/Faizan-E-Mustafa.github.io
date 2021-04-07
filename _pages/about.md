@@ -10,4 +10,4 @@ I am a student of MSc Computational Linguistics at University of Stuttgart. I am
 
 Have a look at my [***resume***](https://Faizan-E-Mustafa.github.io/pdfs/CV.pdf) for more information.
 
-I like to play cricket but trying my luck with badminton these days :-)
+I like to play cricket but ~~trying my luck with badminton these days :-)~~ - It's Corona time. Bleib gesund :-)
