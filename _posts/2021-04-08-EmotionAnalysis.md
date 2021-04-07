@@ -13,7 +13,7 @@ This post contains the presentation slides for the assignments done during the c
 | ------------- |:-------------| :-----:|
 | 1     | Corpus Creation | [link](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_1.pdf) |
 | 2     | ML-based Emotion Classification | [link](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_2.pdf) |
-| 3 | Literature Review     |  [summary](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_3_paper.pdf) / [slide](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_3_paper.pdf) |
+| 3 | Literature Review     |  [summary](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_3_paper.pdf) / [slide](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_3_slide.pdf) |
 | 4 | Role Labeling  |  [link](https://Faizan-E-Mustafa.github.io/pdfs/EmotionAnalysis/Assignment_4.pdf) |
 
 
