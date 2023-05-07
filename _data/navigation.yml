@@ -8,5 +8,5 @@ main:
     url: /certificates/
   - title: "Projects"
     url: /project/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Publications"
+    url: /publications/
