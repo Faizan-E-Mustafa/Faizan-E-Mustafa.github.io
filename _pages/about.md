@@ -6,8 +6,7 @@ author_profile: true
 #header:
  #   image: "/images/ab.jpg"
 ---
-I am a student of MSc Computational Linguistics at University of Stuttgart. I am interested in applications of Machine Learning and Deep Learning for Natural Languages. 
 
-Have a look at my [***resume***](https://Faizan-E-Mustafa.github.io/pdfs/CV.pdf) for more information.
+I apply Natural Language Processing techniques to extract useful information from unstructured data. My current project at [QUIBIQ GmbH](https://www.quibiq.de/) involve research and application of NLP in the biomedical domain.
 
-I like to play cricket but ~~trying my luck with badminton these days :-)~~ - It's Corona time. Bleib gesund :-)
+
