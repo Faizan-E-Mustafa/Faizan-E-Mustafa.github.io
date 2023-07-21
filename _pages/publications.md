@@ -8,6 +8,7 @@ author_profile: true
 ## 2023
 
 - Faizan E Mustafa, Rafika Boutalbi, and Anastasiia Iurshina. 2023. Annotating PubMed Abstracts with MeSH Headings using Graph Neural Network. In The Fourth Workshop on Insights from Negative Results in NLP, pages 75–81, Dubrovnik, Croatia. Association for Computational Linguistics. [[pdf]](https://aclanthology.org/2023.insights-1.9/) [[code]](https://github.com/Faizan-E-Mustafa/GNN_EACL_Workshop)
+- [News]: Reviewer at the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023) [[link]](https://aclanthology.org/volumes/2023.bea-1/) 
 
 ## 2022
 
