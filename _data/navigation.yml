@@ -6,7 +6,7 @@ main:
     url: /blog/
   - title: "Certificates"
     url: /certificates/
-  - title: "Projects"
-    url: /project/
+  # - title: "Projects"
+  #   url: /project/
   - title: "Publications"
     url: /publications/
