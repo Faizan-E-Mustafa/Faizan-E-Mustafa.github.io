@@ -87,9 +87,19 @@ gallery5:
     image_path: "/images/certificates/mentoring.jpg"
     alt: "Cross Cultural Mentoring Program Participation Certificate"
     title: "Cross Cultural Mentoring Program Participation Certificate"
+
+gallery6:
+  - url: "/images/certificates/az102.PNG"
+    image_path: "/images/certificates/az102.PNG"
+    alt: "Microsoft Azure AI Engineer Associate (AI-102)"
+    title: "Microsoft Azure AI Engineer Associate (AI-102)"
   
 ---
 ***
+### Microsoft Azure AI Engineer Associate (AI-102)
+{% include gallery id="gallery6" %}
+
+______________________
 ### Deep Learning Specialization
 1. Neural Networks and Deep Learning
 2. Improving Deep Neural Networks
