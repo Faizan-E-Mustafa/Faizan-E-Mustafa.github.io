@@ -7,9 +7,9 @@ author_profile: true
 
 ## 2024
 
-Faizan E Mustafa, Corina Dima, Juan Ochoa, and Steffen Staab. 2024. Leveraging Wikidata for Biomedical Entity Linking in a Low-Resource Setting: A Case Study for German. In Proceedings of the 6th Clinical Natural Language Processing Workshop, pages 202–207, Mexico City, Mexico. Association for Computational Linguistics. [[paper]](https://aclanthology.org/2024.clinicalnlp-1.17/) [[code]](https://github.com/PERMEDIQ/German-Bio-Entity-Linking) [[dataset]](https://zenodo.org/records/11003203) [[model]](https://huggingface.co/permediq/SapBERT-DE)
+- Faizan E Mustafa, Corina Dima, Juan Ochoa, and Steffen Staab. 2024. Leveraging Wikidata for Biomedical Entity Linking in a Low-Resource Setting: A Case Study for German. In Proceedings of the 6th Clinical Natural Language Processing Workshop, pages 202–207, Mexico City, Mexico. Association for Computational Linguistics. [[paper]](https://aclanthology.org/2024.clinicalnlp-1.17/) [[code]](https://github.com/PERMEDIQ/German-Bio-Entity-Linking) [[dataset]](https://zenodo.org/records/11003203) [[model]](https://huggingface.co/permediq/SapBERT-DE)
 
-Ochoa, J. G. D., Mustafa, F. E., Weil, F., Wang, Y., Dima, C., Kama, K., & Knott, M. (2023). The Aluminum Standard: Using Generative Artificial Intelligence Tools to Synthesize and Annotate Non-Structured Patient Data. (Preprint)
+- Ochoa, J. G. D., Mustafa, F. E., Weil, F., Wang, Y., Dima, C., Kama, K., & Knott, M. (2023). The Aluminum Standard: Using Generative Artificial Intelligence Tools to Synthesize and Annotate Non-Structured Patient Data. [[paper]](https://www.researchsquare.com/article/rs-3552289/v1) (Preprint)
 
 
 ## 2023
