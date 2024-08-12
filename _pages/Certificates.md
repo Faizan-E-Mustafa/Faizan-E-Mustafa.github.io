@@ -97,6 +97,7 @@ gallery6:
 ---
 ***
 ### Microsoft Azure AI Engineer Associate (AI-102)
+[***Verify***](https://learn.microsoft.com/api/credentials/share/en-us/FaizanEMustafa-2872/116CE6BA825B0D08?sharingId=56C7730629145D4E)
 {% include gallery id="gallery6" %}
 
 ______________________
