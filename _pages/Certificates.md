@@ -101,6 +101,10 @@ gallery6:
 {% include gallery id="gallery6" %}
 
 ______________________
+### Goethe-Zertifikat B1
+[***certificate***](https://Faizan-E-Mustafa.github.io/pdfs/B1_Zertifikate.pdf)
+
+______________________
 ### Deep Learning Specialization
 1. Neural Networks and Deep Learning
 2. Improving Deep Neural Networks
