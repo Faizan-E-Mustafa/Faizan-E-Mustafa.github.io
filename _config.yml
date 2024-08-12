@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Faizan E Mustafa"
-  avatar           :  "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/images/ProfilePic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP Engineer / Researcher"
   location         : "Stuttgart , DE"
   email            : "faizanmustafa750@gmail.com"
