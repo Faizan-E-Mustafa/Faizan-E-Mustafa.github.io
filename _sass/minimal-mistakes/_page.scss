@@ -52,6 +52,20 @@
   }
 }
 
+/* When there is no left sidebar (e.g. author profile hidden on posts),
+   let the article fill most of the width, keeping only half the normal
+   left column so it does not sit flush against the edge. */
+#main:not(:has(.sidebar)) .page,
+#main:not(:has(.sidebar)) .page__related {
+  @include breakpoint($large) {
+    width: calc(100% - #{$right-sidebar-width-narrow} / 2);
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width} / 2);
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
