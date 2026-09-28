@@ -4,6 +4,14 @@ permalink: /project/
 title: "Projects"
 author_profile: true
 featured_row:
+  - image_path: /images/projects/corporate_action_award.jpg
+    alt: "Award certificate for the internal NEC Best Value Award"
+    title: "Avaloq GenAI Corporate Actions for Banking Operations"
+    excerpt: "Agentic AI developed at NEC Laboratories Europe for our customer Avaloq, decoding SWIFT messages and prospectuses from custodians and populating their corporate actions platform. Avaloq reported 98% accuracy and up to 40% time savings in preparing multilingual notifications. Won the 2025 Datos Impact Award."
+    url: "/CorporateActions/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /images/projects/kalaam_scribe.png
     alt: "Kalaam Scribe on an Android phone, with the record control and the transcript visible"
     title: "Kalaam Scribe"
