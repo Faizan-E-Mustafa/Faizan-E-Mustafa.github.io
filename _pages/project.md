@@ -21,6 +21,12 @@ featured_row:
     btn_class: "btn--inverse"
 
 earlier_row:
+  - title: "Recommender System for a German Healthcare Provider"
+    excerpt: "At **QUIBIQ GmbH**, developed a graph neural network recommender to suggest GOP service codes based on patient ICD diagnosis codes, with patient clustering and interpretable results."
+    url: "/RecommenderSystem/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - title: "Smart RFQ for a Global Engineering Services Company"
     excerpt: "At **QUIBIQ GmbH**, built an RFQ automation system with SharePoint document ingestion, PDF/Word parsing, TF-IDF matching, and indexed embedding similarity. Deployed on Azure Functions."
     url: "/SmartRFQ/"
