@@ -21,6 +21,12 @@ featured_row:
     btn_class: "btn--inverse"
 
 earlier_row:
+  - title: "AI4MedCode: AI-Supported ICD Coding for German Hospitals"
+    excerpt: "Developed at QUIBIQ GmbH, this usable NLP solution supports ICD coding and billing in German hospitals. The project was carried out with the University of Stuttgart and Klinikum Stuttgart; my work included German biomedical NER, synthetic clinical text, and Wikidata-based entity linking."
+    url: "/AI4MedCode/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - title: "Recommender System for a German Healthcare Provider"
     excerpt: "At **QUIBIQ GmbH**, developed a graph neural network recommender to suggest GOP service codes based on patient ICD diagnosis codes, with patient clustering and interpretable results."
     url: "/RecommenderSystem/"
