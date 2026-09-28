@@ -4,10 +4,10 @@ permalink: /project/
 title: "Projects"
 author_profile: true
 featured_row:
-  - image_path: /images/projects/corporate_action_award.jpg
-    alt: "Award certificate for the internal NEC Best Value Award"
+  - image_path: /images/projects/corporate_action_award_card.jpg
+    alt: "GIBU Award 2025 Best Value Award certificate"
     title: "Avaloq GenAI Corporate Actions for Banking Operations"
-    excerpt: "Agentic AI developed at NEC Laboratories Europe for our customer Avaloq, decoding SWIFT messages and prospectuses from custodians and populating their corporate actions platform. Avaloq reported 98% accuracy and up to 40% time savings in preparing multilingual notifications. Won the 2025 Datos Impact Award."
+    excerpt: "Agentic AI developed at NEC for Avaloq, decoding SWIFT messages from custodians and populating their corporate actions platform. Avaloq reported 98% accuracy and up to 40% time savings in preparing multilingual notifications. Won the 2025 Datos Impact Award."
     url: "/CorporateActions/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

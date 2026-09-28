@@ -3,12 +3,12 @@ title: "Avaloq GenAI Corporate Actions for Banking Operations"
 date: 2026-07-01
 tags: [Projects]
 excerpt: "Developed at NEC Laboratories Europe for our customer Avaloq, with reported 98% accuracy and up to 40% time savings in preparing multilingual notifications"
-toc: false
+toc: true
 ---
 
 ## The challenge
 
-Corporate actions are significant events initiated by public companies that materially affect their shareholders and securities. At Avaloq, specialists traditionally reviewed custodian SWIFT messages and manually entered the information into the corporate actions platform. Custodian messages contain unstructured text compiled from multiple inputs, with details that vary by event type. Datos Insights puts the cost of processing errors across the market at approximately USD 1 billion annually, as quoted in Avaloq's award announcement.
+Corporate actions are significant events initiated by public companies that materially affect their shareholders and securities. At Avaloq, specialists traditionally reviewed custodian SWIFT messages and manually entered the information into the corporate actions platform. Custodian messages contain unstructured text compiled from multiple inputs, with details that vary by event type. Datos Insights puts the cost of processing errors across the market at approximately USD 1 billion annually.
 
 ## What we built
 
