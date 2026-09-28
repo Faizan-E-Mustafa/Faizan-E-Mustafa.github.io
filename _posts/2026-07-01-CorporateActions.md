@@ -1,6 +1,6 @@
 ---
 title: "Avaloq GenAI Corporate Actions for Banking Operations"
-date: 2026-09-28
+date: 2026-07-01
 tags: [Projects]
 excerpt: "Developed at NEC Laboratories Europe for our customer Avaloq, with reported 98% accuracy and up to 40% time savings in preparing multilingual notifications"
 toc: false
