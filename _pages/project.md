@@ -21,6 +21,12 @@ featured_row:
     btn_class: "btn--inverse"
 
 earlier_row:
+  - title: "Smart RFQ for a Global Engineering Services Company"
+    excerpt: "At **QUIBIQ GmbH**, built an RFQ automation system with SharePoint document ingestion, PDF/Word parsing, TF-IDF matching, and indexed embedding similarity. Deployed on Azure Functions."
+    url: "/SmartRFQ/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /images/projects/image_captioning.jpg
     alt: "An image passed through the captioning model with a generated English caption"
     title: "Keras Implementation of Image Captioning Model"
