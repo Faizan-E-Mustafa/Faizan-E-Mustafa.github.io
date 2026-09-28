@@ -3,49 +3,35 @@ layout: splash
 permalink: /project/
 title: "Projects"
 author_profile: true
-#header: 
-#    image: "/images/projects/Main.jpg"
-feature_row:
-  - image_path: /images/projects/shellhacks.png
-    alt: "placeholder image 2"
-    title: "Detecting Potential Misinformation Spreaders during Disaster"
-    excerpt: "Twitter provides a platform where information is exchanged every second through conversations. Unfortunately, spread of misinformation is demaging the reputaion of the platform and could cause huge loss especially in case of disasters. NLP techniques can be applied to handle that."
-    url: "https://github.com/Faizan-E-Mustafa/Detecting-Potential-Misinformation-Spreaders-during-Disaster"
+featured_row:
+  - image_path: /images/projects/kalaam_scribe.png
+    alt: "Kalaam Scribe on an Android phone, with the record control and the transcript visible"
+    title: "Kalaam Scribe"
+    excerpt: "On-device Android dictation in Kotlin and Jetpack Compose. 99 languages via Whisper, plus Roman-Urdu and Urdu-script models. Audio never leaves the phone."
+    url: "/KalaamScribe/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /images/projects/scratch.png
-    alt: "placeholder image 2"
-    title: "Scratch"
-    excerpt: "Implement basic Machine Learning Algorithms from scratch in python."
-    url: "https://faizan-e-mustafa.github.io/scratch//index.html"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
+earlier_row:
   - image_path: /images/projects/image_captioning.jpg
-    alt: "placeholder image 2"
+    alt: "An image passed through the captioning model with a generated English caption"
     title: "Keras Implementation of Image Captioning Model"
-    excerpt: "Image captioning is a task that involves computer vision as well as Natural language processing. It takes an image and is able to describe whats going on in the image in English. It uses InceptionV3 to extract features from images and LSTM to generate captions for images.This implementation uses Keras with Tensorflow back end."
+    excerpt: "Image captioning with InceptionV3 for features and an LSTM for generation, implemented in Keras on a TensorFlow backend."
     url: "https://faizan-e-mustafa.github.io/ImageCaptioning/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /images/projects/kaggle.jpg
-    alt: "placeholder image 2"
-    title: "Titanic : Machine Learning from Disaster Kaggle"
-    excerpt: "Predict whether the passenger will survive titanic disaster or not"
-    url: "https://Faizan-E-Mustafa.github.io/pdfs/titanic_summary.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    
-  - image_path: /images/projects/ML.jpg
-    alt: "placeholder image 2"
-    title: "60 Days of ML Code"
-    excerpt: "60 Days of ML Code is a committment to study Machine Learning at least one hour a day . I was also able to do a couple of projects during this time"
-    url: "https://github.com/Faizan-E-Mustafa/60-Days-of-ML-Code"
+  - image_path: /images/projects/shellhacks.png
+    alt: "Banner for the misinformation spreaders project"
+    title: "Detecting Potential Misinformation Spreaders during Disaster"
+    excerpt: "Finding accounts that spread misinformation during a disaster, so the signal can be separated from the noise while the event is still unfolding."
+    url: "https://github.com/Faizan-E-Mustafa/Detecting-Potential-Misinformation-Spreaders-during-Disaster"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
+{% include feature_row id="featured_row" %}
 
-{% include feature_row %}
+## Earlier work
+
+{% include feature_row id="earlier_row" %}

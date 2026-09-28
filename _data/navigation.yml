@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /project/
   - title: "Blog"
     url: /blog/
-  - title: "Certificates"
-    url: /certificates/
-  # - title: "Projects"
-  #   url: /project/
   - title: "Publications"
     url: /publications/
+  - title: "Certificates"
+    url: /certificates/
