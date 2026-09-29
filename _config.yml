@@ -110,7 +110,7 @@ author:
   name             : "Faizan E Mustafa"
   avatar           :  "/images/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP Research Engineer"
-  location         : "Stuttgart , DE"
+  location         : "Heidelberg , DE"
   email            : "faizanmustafa750@gmail.com"
   links:
     - label: "Email"
