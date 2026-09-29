@@ -39,6 +39,12 @@ earlier_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
+  - title: "Master’s Thesis: PubMed MeSH Annotation with Graph Neural Networks"
+    excerpt: "Master’s thesis at the University of Stuttgart, carried out at QUIBIQ GmbH. Explored GNN link prediction for assigning MeSH headings to PubMed abstracts, with error analysis of the model’s performance."
+    url: "/PubMedMeSHGNN/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /images/projects/image_captioning.jpg
     alt: "An image passed through the captioning model with a generated English caption"
     title: "Keras Implementation of Image Captioning Model"
