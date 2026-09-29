@@ -19,9 +19,9 @@ Completed as my Master’s thesis at the [University of Stuttgart](https://www.u
 ## Supervision and support
 
 - **Main supervisors:** [Prof. Dr. Roman Klinger](https://www.romanklinger.de/) and [Prof. Dr. Steffen Staab](https://scholar.google.com/citations?user=QvpcUn8AAAAJ&hl=en)
-- **Direct supervisors:** [Rafika Boutalbi](https://scholar.google.com/citations?user=VgzYUo8AAAAJ&hl=fr) and [Anastasiia Iurshina](https://scholar.google.com/citations?user=3PUgA9kAAAAJ&hl=en)
-- **Industry research guide:** [Juan G. Díaz Ochoa](https://de.linkedin.com/in/juan-g-dr-diaz-ochoa-b45ba894)
-- **Funding:** QUIBIQ GmbH, with [Felix Weil](https://de.linkedin.com/in/felix-weil)
+- **Direct supervisors:** [Dr. Rafika Boutalbi](https://scholar.google.com/citations?user=VgzYUo8AAAAJ&hl=fr) and [Anastasiia Iurshina](https://scholar.google.com/citations?user=3PUgA9kAAAAJ&hl=en)
+- **Industry research guide:** [Dr. Juan G. Díaz Ochoa](https://de.linkedin.com/in/juan-g-dr-diaz-ochoa-b45ba894)
+- **Funding:** QUIBIQ GmbH, with [Dr. Felix Weil](https://de.linkedin.com/in/felix-weil)
 
 ## Publication
 
