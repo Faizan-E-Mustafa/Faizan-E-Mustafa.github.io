@@ -2,13 +2,21 @@
 layout: archive
 permalink: /about/
 title: About
+description: "Research Engineer at NEC Laboratories Europe working on LLM agents and applied NLP"
 author_profile: true
-#header:
- #   image: "/images/ab.jpg"
+comments: false
 ---
 
-I’m a Research Engineer in the Reliable GenAI Solutions group at [NEC Laboratories Europe](https://neclab.eu/research-groups/human-centric-ai/people/faizan-e-mustafa). My work focuses on applied natural language processing (NLP) and engineering scalable LLM-based applications, from development through deployment, including LLMOps.
+I'm a Research Engineer in the Reliable GenAI Solutions group at [NEC Laboratories Europe](https://neclab.eu/research-groups/human-centric-ai/people/faizan-e-mustafa). I work on applied natural language processing (NLP) and build LLM-powered applications end to end, from prototype to production.
 
-My current areas of focus include AI agents, LLM memory, LLM self-improvement, and voice-based conversational AI. I have experience applying AI in healthcare, finance, and public safety.
+## What I work on
 
-<!-- I like to read books. My [Goodreads profile](https://www.goodreads.com/user/show/131185441-faizan-mustafa) is updated occasionaly. -->
+- AI agents
+- LLM memory
+- LLM self-improvement
+- Voice-based conversational AI
+- LLMOps for deploying and maintaining LLM applications
+
+## Where I've applied it
+
+I have applied AI in finance, healthcare and public safety. Two examples are [Avaloq GenAI Corporate Actions](/CorporateActions/), which automates parts of banking operations, and [AI4MedCode](/AI4MedCode/), which supports ICD coding in German hospitals.
