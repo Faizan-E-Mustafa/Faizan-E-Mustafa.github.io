@@ -35,6 +35,9 @@
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
+          {% if f.label %}
+            <p class="archive__item-label">{{ f.label }}</p>
+          {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">

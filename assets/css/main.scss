@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Meta line for project cards (see _includes/feature_row) */
+.page__content .archive__item-label {
+  margin: 0 0 0.75em;
+  font-size: 0.5625rem; /* 9px */
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $muted-text-color;
+}
