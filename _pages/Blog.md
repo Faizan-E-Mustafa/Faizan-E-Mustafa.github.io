@@ -1,8 +1,7 @@
 ---
-layout: tags
+layout: posts
 permalink: /blog/
-title: "Blog by Tags"
+title: "Blog"
 #header: 
  #   image: "/images/cl.jpg"
 ---
-
